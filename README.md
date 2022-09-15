@@ -6,6 +6,7 @@ Script Auto Like Post Facebook Power By RPW Liker
  ```
  $ pkg update && pkg upgrade
  $ pkg install python
+ $ pkg install git
  $ pip install requests
  $ git clone https://github.com/RozhBasXYZ/RPWROZH
  $ cd RPWROZH
