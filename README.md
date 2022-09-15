@@ -1,4 +1,4 @@
-# SCRIPT AUTO LIKE FACEBOKK
+# SCRIPT AUTO LIKE FACEBOOK
 Script Auto Like Post Facebook Power By RPW Liker
 
 #### Install Script Di Termux
